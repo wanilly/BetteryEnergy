@@ -15,13 +15,9 @@ Title : Effect of composite of PEI and CMC/SBR binder on Electrochemical Perform
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/49769190/214846975-260c61a7-35a1-400f-adcb-89a2fc29564c.png">
 
 ### Capacity Retention
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849455-b7421c07-faa0-4e2e-82ce-9fa481e72d58.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849455-b7421c07-faa0-4e2e-82ce-9fa481e72d58.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849552-83d3c476-8256-4ba2-996c-f64c3480479e.png">
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849552-83d3c476-8256-4ba2-996c-f64c3480479e.png">
-
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849673-24bb73b3-e76e-4d1e-811b-cd66be9e794f.png">
-
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849757-1198329d-fbba-4ac3-9fd7-c7c152ee1627.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849673-24bb73b3-e76e-4d1e-811b-cd66be9e794f.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214849757-1198329d-fbba-4ac3-9fd7-c7c152ee1627.png">
 
 ### Rate capability
  <img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/214848659-645aec67-df3e-423e-bff5-2972a13732bb.png">
