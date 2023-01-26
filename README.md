@@ -1,11 +1,10 @@
 # BetteryEnergy
 Title : Effect of composite of PEI and CMC/SBR binder on Electrochemical Performance for Silicon Anode 
 
-## Pressed electrode of CMC/SBR and CMC/SBR + PEI
+## Pressed electrode of CMC/SBR + PEI and CMC/SBR
 
-![image](https://user-images.githubusercontent.com/49769190/214847653-947ec883-2410-4080-9e26-c7b5cdb8a59f.jpeg)
-
-![image](https://user-images.githubusercontent.com/49769190/214847714-026438d3-86a3-4ffa-af2c-8ac45108f553.jpeg)
+![image](https://user-images.githubusercontent.com/49769190/214847653-947ec883-2410-4080-9e26-c7b5cdb8a59f.jpeg) ![image](https://user-images.githubusercontent.com/49769190/214847714-026438d3-86a3-4ffa-af2c-8ac45108f553.jpeg)
+* CMC/SBR + PEI                             * CMC/SBR
 
 ## Formation Graph
 
